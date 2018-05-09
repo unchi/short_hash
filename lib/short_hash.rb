@@ -1,4 +1,5 @@
 require "short_hash/version"
+require 'digest/md5'
 
 module ShortHash
 
